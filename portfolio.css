@@ -1368,11 +1368,11 @@ left:25%;
 
 .profile-pic
 {
-height: 25vh;
+height: 20vh;
 }
 .hover-pic
 {
-height: 25vh;
+height: 20vh;
 }
 
 .hero-second h2
@@ -1404,7 +1404,7 @@ z-index: 200;
 }
 .code pre
 {
-font-size: 0.65rem;
+font-size: 0.5rem;
 font-weight: bolder;
 }
 
